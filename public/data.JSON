@@ -1,0 +1,146 @@
+[
+    {
+        "key": "MPofSYL",
+        "name": "Mahmud Us-Samad Chowdhury",
+        "img": "https://thumbs.dreamstime.com/b/smiling-old-man-suit-portrait-senior-office-manager-windows-jalousie-background-174152637.jpg",
+        "age": 65,
+        "designation": "Member of Parliament",
+        "place": "Sylhet-3",
+        "donation": 10000000
+    },
+    {
+        "key": "PMofSFP",
+        "name": "Md. Kamruzzaman",
+        "img": "https://st.depositphotos.com/1776223/1721/i/950/depositphotos_17215115-stock-photo-old-business-man.jpg",
+        "age": 60,
+        "designation": "Project Manager",
+        "place": "Shajalal Fertilizer Project",
+        "donation": 200000
+    },
+    {
+        "key": "MDofNGFF",
+        "name": "Md. Iskandar Ali",
+        "img": "https://media.istockphoto.com/photos/senior-businessman-portrait-picture-id514476143?k=20&m=514476143&s=612x612&w=0&h=n2bJnPG01SmSBqPh1jk5taoE743Myif5m2DzlAuqkwI=",
+        "age": 61,
+        "designation": "Managing Director",
+        "place": "NGFF Ltd.",
+        "donation": 200000
+    },
+    {
+        "key": "CHMofMUP",
+        "name": "Md. Nurul Islam",
+        "img": "https://media.istockphoto.com/photos/happy-satisfied-mature-businessman-looking-at-camera-isolated-on-picture-id1075455058?k=6&m=1075455058&s=612x612&w=0&h=1dNd5aczDqz8A-70DAPIC1RU-JYxsR0YLKTZo5M0uKo=",
+        "age": 63,
+        "designation": "Chairman",
+        "place": "No-2 Maijgaon Union Porishad",
+        "donation": 100000
+    },
+    {
+        "key": "SECofNGFFEU",
+        "name": "Saleh Ahmed",
+        "img": "https://img.freepik.com/free-photo/confident-handsome-businessman-suit-glasses-looking-serious_176420-31755.jpg?size=626&ext=jpg",
+        "age": 51,
+        "designation": "Secretary",
+        "place": "NGFF Emploiz Union",
+        "donation": 100000
+    },
+    {
+        "key": "GSofNGFFEU",
+        "name": "Rayhan Khandakar",
+        "img": "https://image1.masterfile.com/getImage/NjAwLTAyNDI4ODIwZW4uMDAwMDAwMDA=ABjJly/600-02428820en_Masterfile.jpg",
+        "age": 57,
+        "designation": "General Secretary",
+        "place": "NGFF Emploiz Union",
+        "donation": 50000
+    },
+    {
+        "key": "LMofMUP",
+        "name": "Sathi Rani Debnath",
+        "img": "https://previews.123rf.com/images/olegdudko/olegdudko1809/olegdudko180900057/107554259-mature-businesswoman-wearing-formal-suit-on-background.jpg",
+        "age": 52,
+        "designation": "Lady Member",
+        "place": "No-2 Maijgaon Union Porishod",
+        "donation": 50000
+    },
+    {
+        "key": "SECofBKS",
+        "name": "GiriDhari Laldhar",
+        "img": "https://image1.masterfile.com/getImage/NjAwLTAxNjEzOTU5ZW4uMDAwMDAwMDA=AAw6u3/600-01613959en_Masterfile.jpg",
+        "age": 52,
+        "designation": "Secretary",
+        "place": "Baidik Krishty Songstha",
+        "donation": 50000
+    },
+    {
+        "key": "GS1ofBKS",
+        "name": "Joshoda Mohon Ray",
+        "img": "https://t3.ftcdn.net/jpg/00/55/60/88/360_F_55608895_s70yiwyB2yNS2nxEF2eO4mVHYuvQrxfZ.jpg",
+        "age": 50,
+        "designation": "General Secretary",
+        "place": "Baidik Krishty Songstha",
+        "donation": 20000
+    },
+    {
+        "key": "GS2ofBKS",
+        "name": "Ratan Krishna Nondi",
+        "img": "https://media.istockphoto.com/photos/portrait-of-displeased-senior-businessman-in-suit-picture-id636290316?k=20&m=636290316&s=612x612&w=0&h=ZPw-yoArYS_SHs1I5ULqg2zpP7LtKm9ieFQLLB_Fjkw=",
+        "age": 55,
+        "designation": "General Secretary",
+        "place": "Baidik Krishty Songstha",
+        "donation": 20000
+    },
+    {
+        "key": "AGSofBKS",
+        "name": "Ratan Kumar Shil",
+        "img": "https://www.simonebertollini.com/wp-content/uploads/2017/10/simone_2.jpg",
+        "age": 33,
+        "designation": "Assistant General Secretary",
+        "place": "Baidik Krishty Songstha",
+        "donation": 10000
+    },
+    {
+        "key": "OSofBKS",
+        "name": "Kallyan Bratha Nath",
+        "img": "https://www.tomas-law.com/cms/thumbnails/00/317x402/images/attorney.jpg",
+        "age": 52,
+        "designation": "Office Secretary",
+        "place": "Baidik Krishty Songstha",
+        "donation": 5000
+    },
+    {
+        "key": "FEofBKS",
+        "name": "Arabindu Prosad Roy",
+        "img": "https://cdn.blrankings.com/best-lawyers/lawyer-images/dev-k-sethi-131770?t=2021021119154715",
+        "age": 50,
+        "designation": "Finance Editor",
+        "place": "Baidik Krishty Songstha",
+        "donation": 5000
+    },
+    {
+        "key": "M1ofBKS",
+        "name": "Sribash Chowdhury",
+        "img": "https://qph.fs.quoracdn.net/main-qimg-fb50add9d38dccaf2f34ee5ebbfe0b01.webp",
+        "age": 35,
+        "designation": "Member",
+        "place": "Baidik Krishty Songstha",
+        "donation": 2000
+    },
+    {
+        "key": "M2ofBKS",
+        "name": "Omolendu Bol",
+        "img": "https://static.toiimg.com/thumb/msid-85051918,imgsize-1001194,width-400,resizemode-4/85051918.jpg",
+        "age": 32,
+        "designation": "Member",
+        "place": "Baidik Krishty Songstha",
+        "donation": 2000
+    },
+    {
+        "key": "M3ofBKS",
+        "name": "Prodip Kumar",
+        "img": "https://canadianimmigrant.ca/wp-content/uploads/Dweep-scaled-e1576068091503.jpg",
+        "age": 52,
+        "designation": "Member",
+        "place": "Baidik Krishty Songstha",
+        "donation": 2000
+    }
+]

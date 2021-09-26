@@ -1,0 +1,21 @@
+.donor {
+    border-radius: 10px;
+    background-color: rgb(250, 250, 234);
+    transition: 0.3s;
+}
+.donor:hover {
+    box-shadow: 1px 1px 20px gray;
+}
+.donor-img{
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.designation {
+    padding: 1px 15px;
+    background-color: rgb(74, 155, 74);
+    color: white;
+    border-radius: 25px;
+}

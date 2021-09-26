@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Donation for building a temple
+
+## Here is the live site link:
+
+### Project features:
+
+* This is the donation website where respectable person from their field donates a scale of amount for building a temple in a place
+
+* This website has basically 3 parts. First part is Header and from the main part, there has donor part and donation calculation part which is basically donor-cart. Here donor information loads from the data.json file.
+
+* From this website any user can see the donor information and can calculate the the total donation.
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
